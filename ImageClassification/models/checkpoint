@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/calistako/Desktop/ImageClassification/models/imagerecognition-0.001-2conv-basic"
+all_model_checkpoint_paths: "/Users/calistako/Desktop/ImageClassification/models/imagerecognition-0.001-2conv-basic"
